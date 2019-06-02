@@ -1,6 +1,8 @@
 # Sensor Stack Developer Edition
 
-**Plug and Play Open Source IoT Hardware Add-on for beginners, developers, and geeks. Transform your ideas into real life working demos without getting into the complexities of electronic circuits.**
+**Plug and Play Open Source IoT Hardware Add-on for beginners, developers, and geeks.**
+
+**Transform your ideas into real life working demos without getting into the complexities of electronic circuits.**
 
 
 **Get yours at: https://appliot.org**
