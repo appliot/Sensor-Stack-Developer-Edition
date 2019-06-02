@@ -5,7 +5,7 @@
 
 **Get yours at: https://appliot.org**
 
-<img src="img/pcb-1.jpg" alt="PCB" height=auto width=auto>
+<img src="img/PCB-1.jpg" alt="PCB" height=auto width=auto>
 
 # Driving forces
 
